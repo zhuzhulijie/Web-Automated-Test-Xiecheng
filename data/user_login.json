@@ -1,0 +1,18 @@
+{
+    "login_001":{"username":"18728776859",
+               "password":"zljroy99",
+               "expect_result":"用户名或密码不正确",
+                "success": false},
+    "login_002":{"username":"",
+               "password":"zljroy99",
+               "expect_result":"请输入用户名",
+                "success": false},
+    "login_004":{"username":"19132056083",
+               "password":"",
+               "expect_result":"请输入登录密码",
+                "success": false},
+    "login_005":{"username":"19132056083",
+               "password":"zljroy99",
+               "expect_result":"安全退出",
+                "success": true}
+}

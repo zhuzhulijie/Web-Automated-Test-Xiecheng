@@ -1,0 +1,128 @@
+2024-07-20 16:28:40,185 INFO [root] [base.py(__init__:12)] - 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="56e51c817b77c1ffa817f5387abdd492")>
+2024-07-20 16:28:40,187 INFO [root] [base.py(__init__:12)] - 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="56e51c817b77c1ffa817f5387abdd492")>
+2024-07-20 16:28:40,187 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '.tl_nfes_home_header_login_title_5neWJ')
+2024-07-20 16:28:40,187 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '.tl_nfes_home_header_login_title_5neWJ')
+2024-07-20 16:28:40,959 INFO [root] [base.py(base_input:35)] - 正在给元素('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[1]/dd/input")输入内容:19132056083
+2024-07-20 16:28:40,960 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[1]/dd/input")
+2024-07-20 16:28:41,031 INFO [root] [base.py(base_input:38)] - 正在给元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[1]/dd/input")清空
+2024-07-20 16:28:41,104 INFO [root] [base.py(base_input:40)] - 正在给元素:19132056083输入内容
+2024-07-20 16:28:42,117 INFO [root] [base.py(base_input:35)] - 正在给元素('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[2]/dd/input")输入内容:zljroy99
+2024-07-20 16:28:42,117 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[2]/dd/input")
+2024-07-20 16:28:42,140 INFO [root] [base.py(base_input:38)] - 正在给元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[2]/dd/input")清空
+2024-07-20 16:28:42,180 INFO [root] [base.py(base_input:40)] - 正在给元素:zljroy99输入内容
+2024-07-20 16:28:43,185 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[4]/div/div[1]/label")
+2024-07-20 16:28:43,185 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[4]/div/div[1]/label")
+2024-07-20 16:28:45,224 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[3]/dd/input")
+2024-07-20 16:28:45,224 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[3]/dd/input")
+2024-07-20 16:28:45,259 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='leftSideNavLayer']/div/div/div[2]/div/div[1]/div/div[3]/button/span[2]")
+2024-07-20 16:28:45,260 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='leftSideNavLayer']/div/div/div[2]/div/div[1]/div/div[3]/button/span[2]")
+2024-07-20 16:28:48,543 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-departStation')
+2024-07-20 16:28:48,563 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '#label-departStation')
+2024-07-20 16:28:48,564 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-departStation')
+2024-07-20 16:28:50,851 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-arriveStation')
+2024-07-20 16:28:50,870 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '#label-arriveStation')
+2024-07-20 16:28:50,870 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-arriveStation')
+2024-07-20 16:28:53,003 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '.cont')
+2024-07-20 16:28:53,003 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '.cont')
+2024-07-20 16:28:53,040 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '.assist-hidden-dom')
+2024-07-20 16:28:53,041 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '.assist-hidden-dom')
+2024-07-20 16:28:54,315 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', '//ul/li[20]')
+2024-07-20 16:28:54,315 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', '//ul/li[20]')
+2024-07-20 16:28:55,370 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='app']/div[2]/div[1]/div[2]/button")
+2024-07-20 16:28:55,370 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='app']/div[2]/div[1]/div[2]/button")
+2024-07-20 16:28:56,407 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='__next']/div/div[3]/div[2]/div[1]/div[2]/div[1]/ul/li/i")
+2024-07-20 16:28:56,407 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='__next']/div/div[3]/div[2]/div[1]/div[2]/div[1]/ul/li/i")
+2024-07-20 16:28:57,479 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='trainlistitem0']/div/button")
+2024-07-20 16:28:57,479 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='trainlistitem0']/div/button")
+2024-07-20 16:28:58,520 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '#__next > div > div.train-wrapper.train-flex.pb120 > div.train-content > section > div.list-open.show.list-open-3 > ul > li:nth-child(1) > button')
+2024-07-20 16:28:58,521 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#__next > div > div.train-wrapper.train-flex.pb120 > div.train-content > section > div.list-open.show.list-open-3 > ul > li:nth-child(1) > button')
+2024-07-20 16:29:08,686 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='leftSideNavLayer']/div/div/div[2]/div/div[1]/div/div[3]/button/span[2]")
+2024-07-20 16:29:08,686 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='leftSideNavLayer']/div/div/div[2]/div/div[1]/div/div[3]/button/span[2]")
+2024-07-20 16:29:08,728 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='leftSideNavLayer']/div/div/div[2]/div/div[1]/div/div[3]/button/span[2]")
+2024-07-20 16:29:08,728 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='leftSideNavLayer']/div/div/div[2]/div/div[1]/div/div[3]/button/span[2]")
+2024-07-20 16:29:22,891 INFO [root] [base.py(__init__:12)] - 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="d94e8b763b99398b54c6053c0f998116")>
+2024-07-20 16:29:22,892 INFO [root] [base.py(__init__:12)] - 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="d94e8b763b99398b54c6053c0f998116")>
+2024-07-20 16:29:22,892 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '.tl_nfes_home_header_login_title_5neWJ')
+2024-07-20 16:29:22,892 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '.tl_nfes_home_header_login_title_5neWJ')
+2024-07-20 16:29:23,784 INFO [root] [base.py(base_input:35)] - 正在给元素('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[1]/dd/input")输入内容:19132056083
+2024-07-20 16:29:23,784 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[1]/dd/input")
+2024-07-20 16:29:23,824 INFO [root] [base.py(base_input:38)] - 正在给元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[1]/dd/input")清空
+2024-07-20 16:29:23,894 INFO [root] [base.py(base_input:40)] - 正在给元素:19132056083输入内容
+2024-07-20 16:29:24,905 INFO [root] [base.py(base_input:35)] - 正在给元素('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[2]/dd/input")输入内容:zljroy99
+2024-07-20 16:29:24,906 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[2]/dd/input")
+2024-07-20 16:29:24,930 INFO [root] [base.py(base_input:38)] - 正在给元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[2]/dd/input")清空
+2024-07-20 16:29:24,971 INFO [root] [base.py(base_input:40)] - 正在给元素:zljroy99输入内容
+2024-07-20 16:29:25,984 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[4]/div/div[1]/label")
+2024-07-20 16:29:25,984 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[4]/div/div[1]/label")
+2024-07-20 16:29:28,025 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[3]/dd/input")
+2024-07-20 16:29:28,026 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[3]/dd/input")
+2024-07-20 16:29:28,062 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='leftSideNavLayer']/div/div/div[2]/div/div[1]/div/div[3]/button/span[2]")
+2024-07-20 16:29:28,062 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='leftSideNavLayer']/div/div/div[2]/div/div[1]/div/div[3]/button/span[2]")
+2024-07-20 16:29:30,652 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-departStation')
+2024-07-20 16:29:30,665 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '#label-departStation')
+2024-07-20 16:29:30,665 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-departStation')
+2024-07-20 16:29:32,848 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-arriveStation')
+2024-07-20 16:29:32,864 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '#label-arriveStation')
+2024-07-20 16:29:32,864 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-arriveStation')
+2024-07-20 16:29:34,967 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '.cont')
+2024-07-20 16:29:34,967 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '.cont')
+2024-07-20 16:29:35,015 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '.assist-hidden-dom')
+2024-07-20 16:29:35,016 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '.assist-hidden-dom')
+2024-07-20 16:29:36,275 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', '//ul/li[20]')
+2024-07-20 16:29:36,275 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', '//ul/li[20]')
+2024-07-20 16:29:37,342 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='app']/div[2]/div[1]/div[2]/button")
+2024-07-20 16:29:37,342 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='app']/div[2]/div[1]/div[2]/button")
+2024-07-20 16:29:38,379 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='__next']/div/div[3]/div[2]/div[1]/div[2]/div[1]/ul/li/i")
+2024-07-20 16:29:38,379 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='__next']/div/div[3]/div[2]/div[1]/div[2]/div[1]/ul/li/i")
+2024-07-20 16:29:39,447 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='trainlistitem0']/div/button")
+2024-07-20 16:29:39,447 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='trainlistitem0']/div/button")
+2024-07-20 16:29:40,484 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '#__next > div > div.train-wrapper.train-flex.pb120 > div.train-content > section > div.list-open.show.list-open-3 > ul > li:nth-child(1) > button')
+2024-07-20 16:29:40,484 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#__next > div > div.train-wrapper.train-flex.pb120 > div.train-content > section > div.list-open.show.list-open-3 > ul > li:nth-child(1) > button')
+2024-07-20 16:30:27,490 INFO [root] [base.py(__init__:12)] - 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="cdcdbe9eb0ffbddf01255afa1b73efae")>
+2024-07-20 16:30:27,491 INFO [root] [base.py(__init__:12)] - 初始化driver<selenium.webdriver.chrome.webdriver.WebDriver (session="cdcdbe9eb0ffbddf01255afa1b73efae")>
+2024-07-20 16:30:27,491 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '.tl_nfes_home_header_login_title_5neWJ')
+2024-07-20 16:30:27,491 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '.tl_nfes_home_header_login_title_5neWJ')
+2024-07-20 16:30:28,364 INFO [root] [base.py(base_input:35)] - 正在给元素('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[1]/dd/input")输入内容:19132056083
+2024-07-20 16:30:28,365 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[1]/dd/input")
+2024-07-20 16:30:28,439 INFO [root] [base.py(base_input:38)] - 正在给元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[1]/dd/input")清空
+2024-07-20 16:30:28,522 INFO [root] [base.py(base_input:40)] - 正在给元素:19132056083输入内容
+2024-07-20 16:30:29,535 INFO [root] [base.py(base_input:35)] - 正在给元素('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[2]/dd/input")输入内容:zljroy99
+2024-07-20 16:30:29,535 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[2]/dd/input")
+2024-07-20 16:30:29,559 INFO [root] [base.py(base_input:38)] - 正在给元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[2]/dd/input")清空
+2024-07-20 16:30:29,596 INFO [root] [base.py(base_input:40)] - 正在给元素:zljroy99输入内容
+2024-07-20 16:30:30,604 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[4]/div/div[1]/label")
+2024-07-20 16:30:30,604 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[4]/div/div[1]/label")
+2024-07-20 16:30:32,686 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[3]/dd/input")
+2024-07-20 16:30:32,687 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='bbz_accounts_pc_lg_box']/div/div/div[1]/div[1]/form/dl[3]/dd/input")
+2024-07-20 16:30:32,726 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='leftSideNavLayer']/div/div/div[2]/div/div[1]/div/div[3]/button/span[2]")
+2024-07-20 16:30:32,727 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='leftSideNavLayer']/div/div/div[2]/div/div[1]/div/div[3]/button/span[2]")
+2024-07-20 16:30:36,117 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-departStation')
+2024-07-20 16:30:36,151 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '#label-departStation')
+2024-07-20 16:30:36,152 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-departStation')
+2024-07-20 16:30:38,482 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-arriveStation')
+2024-07-20 16:30:38,496 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '#label-arriveStation')
+2024-07-20 16:30:38,496 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#label-arriveStation')
+2024-07-20 16:30:40,676 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '.cont')
+2024-07-20 16:30:40,676 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '.cont')
+2024-07-20 16:30:40,708 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '.assist-hidden-dom')
+2024-07-20 16:30:40,709 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '.assist-hidden-dom')
+2024-07-20 16:30:41,975 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', '//ul/li[20]')
+2024-07-20 16:30:41,975 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', '//ul/li[20]')
+2024-07-20 16:30:43,045 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='app']/div[2]/div[1]/div[2]/button")
+2024-07-20 16:30:43,045 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='app']/div[2]/div[1]/div[2]/button")
+2024-07-20 16:30:44,088 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='__next']/div/div[3]/div[2]/div[1]/div[2]/div[1]/ul/li/i")
+2024-07-20 16:30:44,088 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='__next']/div/div[3]/div[2]/div[1]/div[2]/div[1]/ul/li/i")
+2024-07-20 16:30:45,168 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='trainlistitem0']/div/button")
+2024-07-20 16:30:45,168 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='trainlistitem0']/div/button")
+2024-07-20 16:30:46,205 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='__next']/div/div[3]/div[1]/section/div[2]/ul/li[1]/button")
+2024-07-20 16:30:46,205 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='__next']/div/div[3]/div[1]/section/div[2]/ul/li[1]/button")
+2024-07-20 16:30:47,245 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '#__next > div > div.train-wrapper.train-flex.pb120 > div.train-content > div.card-white.addpasg-online.assist-hidden-dom.padding8 > div.addpasg-online-blank > button')
+2024-07-20 16:30:47,245 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#__next > div > div.train-wrapper.train-flex.pb120 > div.train-content > div.card-white.addpasg-online.assist-hidden-dom.padding8 > div.addpasg-online-blank > button')
+2024-07-20 16:30:48,316 INFO [root] [base.py(base_frame_change:44)] - 正在切换frame页面:('css selector', '#picker-iframe')
+2024-07-20 16:30:48,316 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#picker-iframe')
+2024-07-20 16:30:48,337 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='xt-flatlist_0']/div/div/div[2]/span")
+2024-07-20 16:30:48,338 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='xt-flatlist_0']/div/div/div[2]/span")
+2024-07-20 16:30:49,414 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('css selector', '#__next > div:nth-child(1) > div > div.passengerList_bottomButtonWrap__IM5IB > div.passengerList_buttonLinear__3JUho > div > span')
+2024-07-20 16:30:49,414 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('css selector', '#__next > div:nth-child(1) > div > div.passengerList_bottomButtonWrap__IM5IB > div.passengerList_buttonLinear__3JUho > div > span')
+2024-07-20 16:30:50,463 INFO [root] [base.py(base_click:30)] - 正在执行点击元素:('xpath', "//*[@id='__next']/div/div[2]/div[1]/div[6]/dl/dd[5]")
+2024-07-20 16:30:50,464 INFO [root] [base.py(base_find_element:24)] - 正在查找元素:('xpath', "//*[@id='__next']/div/div[2]/div[1]/div[6]/dl/dd[5]")
